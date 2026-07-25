@@ -134,4 +134,4 @@ Following the existing structure keeps the repository useful for everyone.
 
 ##
 
-Learn together • Share knowledge • Support your juniors
+Learn together • Share knowledge 
