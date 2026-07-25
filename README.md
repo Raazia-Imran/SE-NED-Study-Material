@@ -133,3 +133,5 @@ Please do not randomly upload files into the root directory or unrelated folders
 Following the existing structure keeps the repository useful for everyone.
 
 ##
+
+Learn together • Share knowledge • Support your juniors
