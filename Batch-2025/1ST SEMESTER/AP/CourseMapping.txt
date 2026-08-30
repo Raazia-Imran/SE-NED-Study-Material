@@ -1,0 +1,48 @@
+PH-129 Course Outline
+
+Vectors and Mechanics - Serwey
+-------------------------------------
+	Chapter 3 - Vectors 					- all topics
+	Chapter 5 - Laws of Motion				- All topics including friction
+	Chapter 7 - Energy and Energy transfer 	- Work done by constant force
+											- Work done by varying force
+											- Kinetic energy and work-kinetic energy theorem
+											- Conservation of energy
+	Chapter 9 - Linear momentum				- Center of mass
+	Chapter 11 - Angular momentum			- Angular momentum
+	
+Waves and Oscillations - Serwey
+-------------------------------------
+	Chapter 15 - Oscillating motion			- Energy of the simple harmonic oscillation
+											- Damped oscillation
+											- Forced oscillation
+	Chapter 18 - Superposition and			- Superposition and interference
+				 standing waves				- Resonance
+
+Optics and Laser
+-------------------------------------
+	Chapter 35 - Nature of light...			- Huygen's principle
+	Chapter 37 - Interference of light waves- Young's double slit experiment
+	
+Modern Physics - Haliday
+-------------------------------------
+	Chapter 38 - Photons and Matter...		- Photoelectric effect
+											- Electron and matter waves - De broglies wavelength
+
+Electrostatics and Magnetism
+------------------------------------
+	Chapter 23 - Electric Field				- Electric field
+											- Electric field of contineous charge distribution
+	Chapter 24 - Gauss' law					- Electric flux
+											- Gauss law
+											- Application of gauss law to varying charge distribution
+	Chapter 29 - Magnetic Fields			- Applications Involving Charged Particles
+											  Moving in a Magnetic Field (Lorentz Force)
+
+Electrical Elements and Circuits
+-----------------------------------
+	Chapter 27 - Current and Resistance		- Ohm's law
+	Chapter 33 - Alternatic Current circuits- R,L,C in AC circuits
+
+Semiconductor Physics and Electronics
+-----------------------------------
